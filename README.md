@@ -28,14 +28,12 @@ Remembering to use one computer per pair, you can now start working on the issue
 
 Note: Since the creator of the repo has allowed you "collaborator" rights, you don't need to fork this repository first.
 
-Go ahead and clone the repo, so you can work on it locally.
+1. Go ahead and **clone the repo**, so you can work on it locally.
 
-Remember, you will automatically be on the `master` branch. So the first thing you want to do is create a new branch, with an appropriate name for the work you are about to do, and then move to this branch.
+2. Remember, you will automatically be on the `master` branch. So the first thing you want to do is **create a new branch**, with an appropriate name for the work you are about to do, and then move to this branch.
 
-Just before you can start `git add`, `git commit`, `git push`-ing, let's look at the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this workshop repo.
-
+3. Just before you can start `git add`, `git commit`, `git push`-ing, let's **look at the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this workshop repo**.  
 It is a good idea to use multi-line commits (e.g. two `-m` flags), with the second line being a reference to the issue that you are working on.
 
-Ok, now you're ready to start working. Remember to keep your commits granular, and push often, so that your branch on GitHub is as up-to-date as possible.
-
+4. Ok, now you're ready to start working. Remember to keep your commits granular, and push often, so that your branch on GitHub is as up-to-date as possible.  
 When you have finished making changes, and you think the issue is finished, you'll want to submit a pull request for the other pair to take a look at.
