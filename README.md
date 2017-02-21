@@ -9,3 +9,9 @@ This workshop has been made for students of [Founders and Coders](www.founderand
 
 ## Workshop
 Your workshops are designed for collaborative learning, so grab a partner and use one computer.
+
+Choose one person's one-page website from the [prerequisites](www.foundersandcoders.com/apply) to work on. Pick an issue from the ones that were raised in yesterday's [accessibility workshop](https://github.com/jsms90/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md#exercises).
+
+When you start working on issues, you should always assign yourself. Assigning yourself means that other collaborators won't also decide to work on that issue. It stops you from duplicating work :+1:
+
+![Click on "assign" in GitHub](./images/assign.png)
