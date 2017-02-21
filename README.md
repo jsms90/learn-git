@@ -12,7 +12,7 @@ Your workshops are designed for collaborative learning, so grab a partner and us
 
 Now your pair should find another pair and all 4 of you should choose one person's one-page website from the [prerequisites](www.foundersandcoders.com/apply) to work on. Make sure the author of the website that you choose is someone who is happy for you to be committing changes.
 
-Each pair should pick a different issue from the ones that were raised in yesterday's [accessibility workshop](https://github.com/jsms90/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md#exercises).
+Each pair should pick a different issue. Try working on the issues that were raised in yesterday's [accessibility workshop](https://github.com/jsms90/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md#exercises).
 
 When you start working on issues, you should always "assign" yourself. Assigning yourself let's other collaborators know what you're doing, so they don't also decide to work on that issue. It stops you from duplicating work :+1:
 
