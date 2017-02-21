@@ -32,7 +32,7 @@ Go ahead and clone the repo, so you can work on it locally.
 
 Remember, you will automatically be on the `master` branch. So the first thing you want to do is create a new branch, with an appropriate name for the work you are about to do, and then move to this branch.
 
-Just before you can start `git add`, `git commit`, `git push`-ing, let's look at the CONTRIBUTING.md file in this workshop repo.
+Just before you can start `git add`, `git commit`, `git push`-ing, let's look at the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this workshop repo.
 
 It is a good idea to use multi-line commits (e.g. two `-m` flags), with the second line being a reference to the issue that you are working on.
 
