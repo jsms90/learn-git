@@ -35,6 +35,7 @@ Note: Since the creator of the repo has allowed you "collaborator" rights, you d
 3. Just before you can start `git add`, `git commit`, `git push`-ing, let's **look at the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this workshop repo**.  
 It is a good idea to use multi-line commits (e.g. two `-m` flags), with the second line being a reference to the issue that you are working on.
 
-4. Ok, now you're ready to start working. Remember to keep your commits granular, and push often, so that your branch on GitHub is as up-to-date as possible.  
-When you have finished making changes, and you think the issue is finished, you'll want to submit a pull request for the other pair to take a look at.  
+4. Ok, now you're ready to start working. Remember to keep your commits granular, and push often, so that your branch on GitHub is as up-to-date as possible.
+
+5. When you have finished making changes, and you think the issue is finished, you'll want to submit a pull request for the other pair to take a look at.  
 Write a useful message in the body of the PR, which explains the work that you have done clearly and concisely. If your PR gets merged, you don't want to have to go and manually close the issue, so reference the relevant issue by using a keyword that does this for you: `fixes #<number of issue>`.
